@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 使用 TensorFlow 实现神经网络
-date: 2016-11-20 
-tags: 机器学习  
+title: 游玩
+date: 2018-6-20 
+tags: 风景  
 ---
 
 ## 介绍
